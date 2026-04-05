@@ -16,3 +16,10 @@ I created multiple visualizations using matplotlib:
 These visualizations helped in understanding student performance patterns.
 
 All plots are included in the notebook output.
+
+## Task 3 - Machine Learning Model
+I built a Logistic Regression model to predict whether a student will pass or fail based on marks, attendance, and study hours.
+I split the data into training and testing sets, trained the model, and evaluated it using accuracy and confusion matrix.
+
+## Task 4 - Prediction
+I used the trained model to predict whether a new student would pass or fail based on their marks, attendance, and study hours.
